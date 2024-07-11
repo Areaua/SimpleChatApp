@@ -1,4 +1,5 @@
 {
+  
   "expo": {
     "name": "SimpleChatApp",
     "slug": "SimpleChatApp",
@@ -23,5 +24,8 @@
     "web": {
       "favicon": "./assets/favicon.png"
     }
+    
+    
   }
+  
 }
