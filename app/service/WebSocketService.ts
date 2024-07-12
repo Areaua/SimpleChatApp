@@ -1,5 +1,3 @@
-// WebSocketService.ts
-
 class WebSocketService {
   private ws: WebSocket;
   private onMessageCallback: (message: any) => void = () => {};
